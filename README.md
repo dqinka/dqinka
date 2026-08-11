@@ -4,7 +4,7 @@ I'm a Cybersecurity & IT Forensics student based in Ireland,
 currently building my CV and gaining hands-on experience
 through various projects.
 
-##  Fun Facts
+#  Fun Facts
 -  Running a Ukrainian YouTube channel
 -  Voluntarily helping to translate manhwas
 -  Collecting Monster Energy cans
